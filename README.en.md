@@ -89,13 +89,13 @@ In plans — new tools with emphasis on **quality user experience** and **modern
 
 <br>
 
-|                                                                                                                                                                                                                                                    |                            |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- |
-| [![Rust](https://badgen.net/github/release/rust-lang/rust?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=Rust&color=2D1B36&scale=1.4)](https://github.com/rust-lang/rust)                             | System programming         |
-| [![Svelte](https://badgen.net/github/release/sveltejs/svelte?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg&label=Svelte&color=2D1B36&scale=1.4)](https://svelte.dev/)                                  | Web interfaces             |
-| [![Tauri](https://badgen.net/github/release/tauri-apps/tauri?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg&label=Tauri&color=2D1B36&scale=1.4)](https://tauri.app/)                                      | Desktop applications       |
-| [![Typescript](https://badgen.net/github/release/microsoft/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&label=TypeScript&color=2D1B36&scale=1.4)](https://www.typescriptlang.org/) | Frontend typing            |
-| [![Candle](https://badgen.net/crates/v/candle-core?icon=https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/huggingface-color.svg&label=Candle&color=2D1B36&scale=1.4)](https://github.com/huggingface/candle)                            | AI/ML                      |
+|                                                                                                                                                                                                                                                    |                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------- |
+| [![Rust](https://badgen.net/github/release/rust-lang/rust?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=Rust&color=2D1B36&scale=1.4)](https://github.com/rust-lang/rust)                             | System programming   |
+| [![Svelte](https://badgen.net/github/release/sveltejs/svelte?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg&label=Svelte&color=2D1B36&scale=1.4)](https://svelte.dev/)                                  | Web interfaces       |
+| [![Tauri](https://badgen.net/github/release/tauri-apps/tauri?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg&label=Tauri&color=2D1B36&scale=1.4)](https://tauri.app/)                                      | Desktop applications |
+| [![Typescript](https://badgen.net/github/release/microsoft/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&label=TypeScript&color=2D1B36&scale=1.4)](https://www.typescriptlang.org/) | Frontend typing      |
+| [![Candle](https://badgen.net/crates/v/candle-core?icon=https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/huggingface-color.svg&label=Candle&color=2D1B36&scale=1.4)](https://github.com/huggingface/candle)                            | AI/ML                |
 
 <br>
 
