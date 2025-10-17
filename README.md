@@ -1,64 +1,37 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Workshop&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Creator Avatar" />
+  <img src="AIRerikh.gif" width=100% style="border-radius: 50%;" alt="Creator Avatar" /><br>
+  <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=%C2%ABIn%20Beauty%20we%20are%20united!%20Through%20Beauty%20we%20pray!%20Through%20Beauty%20we%20conquer!%C2%BB&textBg=false&desc=%E2%80%93%20Nicholas%20Konstantinovich%20Roerich&fontSize=24&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Creator Avatar" />  
+</div>
 
-<!-- Watercolor header with gradient -->
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,18,12&height=200&section=header&text=&fontColor=F6F7F7&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62" />
+<br>
 
-<div style="margin-top: -50px;">
+## 🎨 At the Junction of Worlds
 
-<!-- Avatar GIF -->
-<img src="AIRerikh.gif" width="150" style="border-radius: 50%; border: 4px solid #BFD7EA; box-shadow: 0 8px 32px rgba(191, 215, 234, 0.3);" />
+My projects are an attempt to find balance between technical capabilities and visual expression. User interface design is the place where technology meets art, where something truly beautiful and meaningful can be created.
 
-<!-- Welcome header with Cormorant Garamond font -->
-<h1 style="font-family: 'Cormorant Garamond', serif; color: #6B7280; margin-top: 20px;">✨ FerrisMind Olive Laboratory ✨</h1>
+> ### 🏔️ **Mountain Peaks — Reliable Foundation**
+>
+> Every solution should stand firm like mountain rock. I strive to create applications that work stably and withstand the test of time.
 
-<!-- Philosophical quote by N. Roerich -->
-<p style="font-family: 'DM Sans', sans-serif; color: #9CA3AF; font-style: italic; max-width: 600px; margin: 0 auto 40px; line-height: 1.8;">
+> ### 🌌 **Cosmic Azure — Interface Depth**
+>
+> I draw inspiration from the multi-layered nature and depth of Roerich's works. I want user interfaces to be just as thoughtful — intuitive on the surface, but with attention to every detail.
+
+<br>
+
+## 🦀 FerrisMind — Olive Laboratory
+
+<div align="center">
+
+### ✨ Philosophy of Creation ✨
+
+<p style="font-style: italic; color: #6B7280; max-width: 600px; margin: 0 auto;">
 <em>"Culture is fragrance, a combination of life and Beauty. Culture is the engine. Culture is the heart"</em><br>
 <small>— Nicholas Konstantinovich Roerich</small>
 </p>
 
 </div>
-
-<!-- Animated technology badges -->
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=BFD7EA" alt="Rust" />
-  <img src="https://img.shields.io/badge/AI-Machine_Learning-C2BEDE?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Tauri-Cross_Platform-B5C9B8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/Open_Source-Culture-F5E8DF?style=for-the-badge&logo=github&logoColor=5A6B73" alt="Open Source" />
-</p>
-
-<!-- Watercolor wave separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-</div>
-
-<!-- Main content with cards -->
-<div style="background: linear-gradient(135deg, #F5E8DF 0%, #F6F7F7 100%); padding: 40px 0; margin: 40px 0; border-radius: 20px;">
-
-## 🎨 Philosophy of Creation
-
-<table>
-<tr>
-<td width="50%">
-
-### 💭 Visual Metaphors
-
-- 🌊 **Airy watercolor** — purity and lightness of code
-- 🧊 **Melting ice** — transparency of architecture
-- 🎨 **Mountain heights** — striving for perfection
-
-### 🖼️ Digital Painting
-
-- **Rust** as a brush of **fiery creativity**
-- **AI** as a palette of **new consciousness**
-- **Open Source** as a **workshop of the Future**
-
-<blockquote style="font-style: italic; color: #6B7280; font-size: 0.9em; margin-top: 20px;">
-"Art will unite humanity. Art is one and indivisible"<br><small>— N. Roerich</small>
-</blockquote>
-
-</td>
-<td width="50%">
 
 ### 🌟 Creative Streams
 
@@ -67,7 +40,7 @@ impl Artist for FerrisMind {
     fn canvas() -> Vec<&'static str> {
         vec![
             "🦀 Olive Laboratory — AI Synthesis",
-            "🤖 GGUF Inspector — Bridges of Understanding",
+            "🤖 GGUF Inspector — Bridges of Understanding", 
             "🌐 Web Creation — New Horizons",
             "🔮 Knowledge of the Unknown"
         ]
@@ -81,70 +54,48 @@ impl Artist for FerrisMind {
 - [ ] **New Tools** for Machine Learning
 - [ ] **Learning Workshop** for Open Source
 
-<blockquote style="font-style: italic; color: #6B7280; font-size: 0.9em; margin-top: 20px;">
-"The beauty of spirit will not allow a single ugly act"<br><small>— E.I. Roerich</small>
-</blockquote>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<!-- GitHub stats in watercolor style -->
-<div align="center" style="margin: 50px 0;">
-
-## 📊 Chronicle of Creation
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrisMind&show_icons=true&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&icon_color=BFD7EA&text_color=6B7280&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrisMind&layout=compact&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&text_color=6B7280" />
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerrisMind&theme=calm&hide_border=true&background=F5E8DF&stroke=BFD7EA&ring=C2BEDE&fire=B5C9B8&currStreakLabel=6B7280" />
-
-</div>
-
-<!-- Watercolor separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" width="100%" />
+---
 
 ## 🌋 Project Workshop
 
-<div style="margin: 30px 0;">
-
 ### 🦀 [Olive Laboratory (Oxide Lab)](https://github.com/FerrisMind/Oxide-Lab)
 
-<blockquote>
 Modern desktop application on **Rust + Tauri v2 + Svelte 5**, created for communication with AI models that work **completely locally** on your computer. No subscriptions, no data to the internet — only you and your **personal AI assistant**.
 
-<strong>Features:</strong> 🔒 Complete privacy • 🎨 Modern UI/UX • 🛡️ No subscriptions
-
-</blockquote>
+**Features:** 🔒 Complete privacy • 🎨 Modern UI/UX • 🛡️ No subscriptions
 
 ---
 
 ### 🤖 [Inspector-GGUF](https://github.com/FerrisMind/inspector-gguf)
 
-<blockquote>
 Powerful tool for analyzing and viewing metadata of **GGUF files** used in machine learning. Uses the **Candle** library for efficient work with models.
 
-<strong>Features:</strong> 🔍 Deep analysis • 🖼️ Graphical interface • ⚙️ CLI mode
-
-</blockquote>
+**Features:** 🔍 Deep analysis • 🖼️ Graphical interface • ⚙️ CLI mode
 
 ---
 
 ### 🌐 Other Creations
 
-<blockquote>
 New tools for working with **machine learning** and **next-generation web technologies** are in development. Each project is a step towards realizing the dream of harmonious coexistence between humans and technology.
-</blockquote>
+
+---
+
+## 📊 Chronicle of Creation
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrisMind&show_icons=true&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&icon_color=BFD7EA&text_color=6B7280&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrisMind&layout=compact&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&text_color=6B7280" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerrisMind&theme=calm&hide_border=true&background=F5E8DF&stroke=BFD7EA&ring=C2BEDE&fire=B5C9B8&currStreakLabel=6B7280" />
 
 </div>
 
-<!-- Contact information -->
-<div align="center" style="background: linear-gradient(45deg, #BFD7EA20, #C2BEDE20); padding: 30px; border-radius: 15px; margin: 40px 0;">
+---
 
 ## 🤝 Bridges of Cooperation
+
+<div align="center" style="background: linear-gradient(45deg, #BFD7EA20, #C2BEDE20); padding: 30px; border-radius: 15px; margin: 40px 0;">
 
 <p style="font-family: 'DM Sans', sans-serif; color: #6B7280; margin-bottom: 20px;">
 <em>"Under the sign of beauty, sealed gates open. Under the sign of beauty we go joyfully"</em><br><small>— Nicholas Konstantinovich Roerich</small>
@@ -155,27 +106,6 @@ New tools for working with **machine learning** and **next-generation web techno
 [![GitHub](https://img.shields.io/badge/🌟_Follow-GitHub-B5C9B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrisMind)
 
 </div>
-
-<!-- Footer with philosophical note -->
-<div align="center" style="margin-top: 60px;">
-
-<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4,18,12&height=100&section=footer&reversal=true&animation=fadeIn" />
-
-<p style="font-family: 'Cormorant Garamond', serif; color: #9CA3AF; font-size: 14px; margin-top: -20px;">
-<em>"In Beauty we are united! Through Beauty we pray! Through Beauty we conquer!"</em><br>
-<small>— Nicholas Konstantinovich Roerich</small>
-</p>
-
-</div>
-
-<!-- Profile metadata -->
-<!--
-Creative chronicle:
-- Public projects: 16 (Olive Laboratory, Inspector-GGUF)
-- Private developments: 31
-- Creative path: 6+ years (since 2019)
-- Main directions: Rust & Artificial Intelligence
--->
 
 ---
 
