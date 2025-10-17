@@ -18,97 +18,96 @@ My projects are an attempt to find balance between technical capabilities and vi
 >
 > I draw inspiration from the multi-layered nature and depth of Roerich's works. I want user interfaces to be just as thoughtful — intuitive on the surface, but with attention to every detail.
 
+> ### ✨ **Golden Radiance — Harmony of Form**
+>
+> Just as an artist achieves purity of color and composition, so I strive for harmony in UI/UX design — every element should be in its place, serve a purpose and please the eye.
+
 <br>
 
-## 🦀 FerrisMind — Olive Laboratory
-
 <div align="center">
-
-### ✨ Philosophy of Creation ✨
-
-<p style="font-style: italic; color: #6B7280; max-width: 600px; margin: 0 auto;">
-<em>"Culture is fragrance, a combination of life and Beauty. Culture is the engine. Culture is the heart"</em><br>
-<small>— Nicholas Konstantinovich Roerich</small>
-</p>
-
+  <h3>🌟 Creative Flow</h3>
 </div>
 
-### 🌟 Creative Streams
-
 ```rust
-impl Artist for FerrisMind {
-    fn canvas() -> Vec<&'static str> {
+impl Designer for FerrisMind {
+    fn projects() -> Vec<&'static str> {
         vec![
-            "🦀 Olive Laboratory — AI Synthesis",
-            "🤖 GGUF Inspector — Bridges of Understanding", 
-            "🌐 Web Creation — New Horizons",
-            "🔮 Knowledge of the Unknown"
+            "🦀 Oxide Lab — local AI assistant",
+            "🤖 Inspector GGUF — AI model analysis",
+            "🌐 Web applications — new possibilities",
+            "🔮 Exploring the unknown"
         ]
+    }
+
+    fn philosophy() -> &'static str {
+        "Interface is the language through which technology speaks to humans"
     }
 }
 ```
 
-### 🎯 Path of Ascent 2025
-
-- [ ] **Olive Laboratory** — Local AI Assistant
-- [ ] **New Tools** for Machine Learning
-- [ ] **Learning Workshop** for Open Source
-
----
-
-## 🌋 Project Workshop
-
-### 🦀 [Olive Laboratory (Oxide Lab)](https://github.com/FerrisMind/Oxide-Lab)
-
-Modern desktop application on **Rust + Tauri v2 + Svelte 5**, created for communication with AI models that work **completely locally** on your computer. No subscriptions, no data to the internet — only you and your **personal AI assistant**.
-
-**Features:** 🔒 Complete privacy • 🎨 Modern UI/UX • 🛡️ No subscriptions
-
----
-
-### 🤖 [Inspector-GGUF](https://github.com/FerrisMind/inspector-gguf)
-
-Powerful tool for analyzing and viewing metadata of **GGUF files** used in machine learning. Uses the **Candle** library for efficient work with models.
-
-**Features:** 🔍 Deep analysis • 🖼️ Graphical interface • ⚙️ CLI mode
-
----
-
-### 🌐 Other Creations
-
-New tools for working with **machine learning** and **next-generation web technologies** are in development. Each project is a step towards realizing the dream of harmonious coexistence between humans and technology.
-
----
-
 ## 📊 Chronicle of Creation
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FerrisMind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrisMind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FerrisMind&show_icons=true&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&icon_color=BFD7EA&text_color=6B7280&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrisMind&layout=compact&theme=calm&hide_border=true&bg_color=F5E8DF&title_color=6B7280&text_color=6B7280" />
+## 🌋 Code Sanctuaries
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FerrisMind&theme=calm&hide_border=true&background=F5E8DF&stroke=BFD7EA&ring=C2BEDE&fire=B5C9B8&currStreakLabel=6B7280" />
+My projects are an attempt to create interfaces that are not just functional, but also evoke positive emotions. A place where modern technologies gain a human face through thoughtful design.
 
-</div>
+<br>
 
----
+[![OxideLab](https://badgen.net/github/tag/ferrismind/oxide-lab?icon=https://cdn.jsdelivr.net/gh/FerrisMind/Oxide-Lab@main/static/icon.svg&label=Oxide%20Lab&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/oxide-lab)
 
-## 🤝 Bridges of Cooperation
+<br>_Local AI assistant with an interface designed for comfortable work and privacy preservation._
 
-<div align="center" style="background: linear-gradient(45deg, #BFD7EA20, #C2BEDE20); padding: 30px; border-radius: 15px; margin: 40px 0;">
+Desktop application on **Rust + Tauri v2 + Svelte 5** for working with AI models without internet.
 
-<p style="font-family: 'DM Sans', sans-serif; color: #6B7280; margin-bottom: 20px;">
-<em>"Under the sign of beauty, sealed gates open. Under the sign of beauty we go joyfully"</em><br><small>— Nicholas Konstantinovich Roerich</small>
-</p>
+- **💎 Thoughtful UI/UX:** Interface created with attention to every detail — from color palette to transition animations.
+- **✨ Complete privacy:** Everything works locally — your data stays only with you.
+- **🛡️ Open principles:** No subscriptions and hidden payments. Code is open for study.
 
-[![Website](https://img.shields.io/badge/🌋_Olive_Laboratory-OxideLab-BFD7EA?style=for-the-badge&logoColor=white)](https://oxidelab.tech)
-[![Email](https://img.shields.io/badge/✉️_Contact-Email-C2BEDE?style=for-the-badge&logoColor=white)](mailto:ferrismindrust@outlook.com)
-[![GitHub](https://img.shields.io/badge/🌟_Follow-GitHub-B5C9B8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FerrisMind)
+<br>
 
-</div>
+[![Inspector%20GGUF](https://badgen.net/crates/v/inspector-gguf?icon=https://cdn.jsdelivr.net/gh/FerrisMind/inspector-gguf@main/assets/icons/icon.svg&label=Inspector%20GGUF&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/inspector-gguf)
 
----
+<br>_Tool for exploring the internal structure of AI models with intuitive graphical interface._
 
-<div align="center">
-<sub>Woven with 💚 in the spirit of Nicholas Konstantinovich Roerich's teaching about Beauty, Culture and Infinite Creation</sub>
-</div>
+Metadata analyzer based on **Candle** library with graphical and console interface.
+
+- **🔍 Visual analysis:** Complex technical information presented in understandable and beautiful form.
+- **🖼️ Friendly interface:** Working with AI models becomes easier thanks to thoughtful UX.
+
+### 🌐 Other Directions
+
+In plans — new tools with emphasis on **quality user experience** and **modern design**. Each project is an opportunity to show that complex technologies can be accessible and pleasant to use.
+
+<br>
+
+<!-- Badgen.net badges with Phosphor Icons and your palette -->
+
+## 💪 Main Arsenal
+
+<br>
+
+|                                                                                                                                                                                                                                                    |                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- |
+| [![Rust](https://badgen.net/github/release/rust-lang/rust?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=Rust&color=2D1B36&scale=1.4)](https://github.com/rust-lang/rust)                             | System programming         |
+| [![Svelte](https://badgen.net/github/release/sveltejs/svelte?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg&label=Svelte&color=2D1B36&scale=1.4)](https://svelte.dev/)                                  | Web interfaces             |
+| [![Tauri](https://badgen.net/github/release/tauri-apps/tauri?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg&label=Tauri&color=2D1B36&scale=1.4)](https://tauri.app/)                                      | Desktop applications       |
+| [![Typescript](https://badgen.net/github/release/microsoft/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&label=TypeScript&color=2D1B36&scale=1.4)](https://www.typescriptlang.org/) | Frontend typing            |
+| [![Candle](https://badgen.net/crates/v/candle-core?icon=https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/huggingface-color.svg&label=Candle&color=2D1B36&scale=1.4)](https://github.com/huggingface/candle)                            | AI/ML                      |
+
+<br>
+
+## 📲 Contacts -->
+
+<br>
+
+<br>[![Website](https://badgen.net/badge/Website/oxidelab.tech/2D1B36?icon=https://cdn.jsdelivr.net/gh/phosphor-icons/core@main/raw/fill/globe-simple-fill.svg&scale=1.6)](https://oxidelab.tech)
+[![Email](https://badgen.net/badge/Email/ferrismindrust@outlook.com/2D1B36?icon=https://cdn.jsdelivr.net/gh/phosphor-icons/core@main/raw/fill/envelope-simple-fill.svg&scale=1.6)](mailto:ferrismindrust@outlook.com)
+[![GitHub](https://badgen.net/badge/GitHub/FerrisMind/1A2B5C?icon=https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/github-logo-fill.svg&scale=1.6)](https://github.com/FerrisMind)
+[![GitVerse](https://badgen.net/badge/GitVerse/FerrisMind/1A2B5C?icon=https://cdn.jsdelivr.net/gh/FerrisMind/FerrisMind@main/static/gitverse.svg&scale=1.6)](https://gitverse.ru/FerrisMind)<br>
+
+<br>
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=~%20Woven%20❤️‍🔥%20in%20the%20spirit%20of%20teaching-nl-%20about%20Beauty,%20Culture%20and%20Infinite%20Creation%20~&textBg=false&fontSize=28&fontAlign=50&fontAlignY=60&animation=fadeIn&section=footer&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1" width=100%; alt="Creator Avatar" />
