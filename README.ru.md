@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Workshop&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Аватар Творца" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Мастерская&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Аватар Творца" />
   <img src="AIRerikh.gif" width=100% style="border-radius: 50%;" alt="Аватар Творца" /><br>
   <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=«В%20Красоте%20мы%20едины!%20Красотою%20молимся!%20Красотою%20побеждаем!»&textBg=false&desc=–%20Николай%20Константинович%20Рерих&fontSize=24&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Аватар Творца" />  
 </div>
@@ -33,12 +33,12 @@ impl Дизайнер for FerrisMind {
     fn проекты() -> Vec<&'static str> {
         vec![
             "🦀 Oxide Lab — локальный AI помощник",
-            "🤖 Inspector GGUF — анализ AI моделей", 
+            "🤖 Inspector GGUF — анализ AI моделей",
             "🌐 Веб-приложения — новые возможности",
             "🔮 Исследование неизведанного"
         ]
     }
-    
+
     fn философия() -> &'static str {
         "Интерфейс — это язык, на котором технология говорит с человеком"
     }
@@ -89,13 +89,13 @@ impl Дизайнер for FerrisMind {
 
 <br>
 
-| | | 
-|:---|:---|
-| [![Rust](https://badgen.net/github/release/rust-lang/rust?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=Rust&color=2D1B36&scale=1.4)](https://github.com/rust-lang/rust) | Системное программирование |
-| [![Svelte](https://badgen.net/github/release/sveltejs/svelte?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg&label=Svelte&color=2D1B36&scale=1.4)](https://svelte.dev/) | Веб-интерфейсы | 
-| [![Tauri](https://badgen.net/github/release/tauri-apps/tauri?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg&label=Tauri&color=2D1B36&scale=1.4)](https://tauri.app/) | Desktop приложения |
-| [![Typescript](https://badgen.net/github/release/microsoft/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&label=TypeScript&color=2D1B36&scale=1.4)](https://www.typescriptlang.org/)| Типизация фронтенда |
-| [![Candle](https://badgen.net/crates/v/candle-core?icon=https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/huggingface-color.svg&label=Candle&color=2D1B36&scale=1.4)](https://github.com/huggingface/candle) | AI/ML |
+|                                                                                                                                                                                                                                                    |                            |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------- |
+| [![Rust](https://badgen.net/github/release/rust-lang/rust?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=Rust&color=2D1B36&scale=1.4)](https://github.com/rust-lang/rust)                             | Системное программирование |
+| [![Svelte](https://badgen.net/github/release/sveltejs/svelte?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg&label=Svelte&color=2D1B36&scale=1.4)](https://svelte.dev/)                                  | Веб-интерфейсы             |
+| [![Tauri](https://badgen.net/github/release/tauri-apps/tauri?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg&label=Tauri&color=2D1B36&scale=1.4)](https://tauri.app/)                                      | Desktop приложения         |
+| [![Typescript](https://badgen.net/github/release/microsoft/TypeScript?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg&label=TypeScript&color=2D1B36&scale=1.4)](https://www.typescriptlang.org/) | Типизация фронтенда        |
+| [![Candle](https://badgen.net/crates/v/candle-core?icon=https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg/icons/huggingface-color.svg&label=Candle&color=2D1B36&scale=1.4)](https://github.com/huggingface/candle)                            | AI/ML                      |
 
 <br>
 
