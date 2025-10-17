@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Workshop&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Аватар Творца" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Мастерская&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Аватар Творца" />
   <img src="AIRerikh.gif" width=100% style="border-radius: 50%;" alt="Аватар Творца" /><br>
   <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=«В%20Красоте%20мы%20едины!%20Красотою%20молимся!%20Красотою%20побеждаем!»&textBg=false&desc=–%20Николай%20Константинович%20Рерих&fontSize=24&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Аватар Творца" />  
 </div>
