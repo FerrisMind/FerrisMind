@@ -42,11 +42,13 @@
 <td width="50%">
 
 ### 💭 Visual Metaphors
+
 - 🌊 **Airy watercolor** — purity and lightness of code
 - 🧊 **Melting ice** — transparency of architecture
 - 🎨 **Mountain heights** — striving for perfection
 
 ### 🖼️ Digital Painting
+
 - **Rust** as a brush of **fiery creativity**
 - **AI** as a palette of **new consciousness**
 - **Open Source** as a **workshop of the Future**
@@ -59,12 +61,13 @@
 <td width="50%">
 
 ### 🌟 Creative Streams
+
 ```rust
 impl Artist for FerrisMind {
     fn canvas() -> Vec<&'static str> {
         vec![
             "🦀 Olive Laboratory — AI Synthesis",
-            "🤖 GGUF Inspector — Bridges of Understanding", 
+            "🤖 GGUF Inspector — Bridges of Understanding",
             "🌐 Web Creation — New Horizons",
             "🔮 Knowledge of the Unknown"
         ]
@@ -73,6 +76,7 @@ impl Artist for FerrisMind {
 ```
 
 ### 🎯 Path of Ascent 2025
+
 - [ ] **Olive Laboratory** — Local AI Assistant
 - [ ] **New Tools** for Machine Learning
 - [ ] **Learning Workshop** for Open Source
@@ -113,6 +117,7 @@ impl Artist for FerrisMind {
 Modern desktop application on **Rust + Tauri v2 + Svelte 5**, created for communication with AI models that work **completely locally** on your computer. No subscriptions, no data to the internet — only you and your **personal AI assistant**.
 
 <strong>Features:</strong> 🔒 Complete privacy • 🎨 Modern UI/UX • 🛡️ No subscriptions
+
 </blockquote>
 
 ---
@@ -123,6 +128,7 @@ Modern desktop application on **Rust + Tauri v2 + Svelte 5**, created for commun
 Powerful tool for analyzing and viewing metadata of **GGUF files** used in machine learning. Uses the **Candle** library for efficient work with models.
 
 <strong>Features:</strong> 🔍 Deep analysis • 🖼️ Graphical interface • ⚙️ CLI mode
+
 </blockquote>
 
 ---
@@ -163,7 +169,7 @@ New tools for working with **machine learning** and **next-generation web techno
 </div>
 
 <!-- Profile metadata -->
-<!-- 
+<!--
 Creative chronicle:
 - Public projects: 16 (Olive Laboratory, Inspector-GGUF)
 - Private developments: 31

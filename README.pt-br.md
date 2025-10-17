@@ -42,11 +42,13 @@
 <td width="50%">
 
 ### 💭 Metáforas Visuais
+
 - 🌊 **Aquarela aérea** — pureza e leveza do código
 - 🧊 **Gelo derretendo** — transparência da arquitetura
 - 🎨 **Alturas montanhosas** — busca pela perfeição
 
 ### 🖼️ Pintura Digital
+
 - **Rust** como pincel de **criatividade flamejante**
 - **IA** como paleta de **nova consciência**
 - **Código Aberto** como **oficina do Futuro**
@@ -59,12 +61,13 @@
 <td width="50%">
 
 ### 🌟 Fluxos Criativos
+
 ```rust
 impl Artista for FerrisMind {
     fn tela() -> Vec<&'static str> {
         vec![
             "🦀 Laboratório Oliva — Síntese de IA",
-            "🤖 Inspector-GGUF — Pontes de Compreensão", 
+            "🤖 Inspector-GGUF — Pontes de Compreensão",
             "🌐 Criação Web — Novos Horizontes",
             "🔮 Conhecimento do Desconhecido"
         ]
@@ -73,6 +76,7 @@ impl Artista for FerrisMind {
 ```
 
 ### 🎯 Caminho de Ascensão 2025
+
 - [ ] **Laboratório Oliva** — Assistente de IA Local
 - [ ] **Novas Ferramentas** para Aprendizado de Máquina
 - [ ] **Oficina de Aprendizado** para Código Aberto
@@ -113,6 +117,7 @@ impl Artista for FerrisMind {
 Aplicação desktop moderna em **Rust + Tauri v2 + Svelte 5**, criada para comunicação com modelos de IA que funcionam **completamente localmente** em seu computador. Sem assinaturas, sem dados na internet — apenas você e seu **assistente de IA pessoal**.
 
 <strong>Recursos:</strong> 🔒 Privacidade completa • 🎨 UI/UX moderna • 🛡️ Sem assinaturas
+
 </blockquote>
 
 ---
@@ -123,6 +128,7 @@ Aplicação desktop moderna em **Rust + Tauri v2 + Svelte 5**, criada para comun
 Ferramenta poderosa para análise e visualização de metadados de **arquivos GGUF** usados em aprendizado de máquina. Usa a biblioteca **Candle** para trabalho eficiente com modelos.
 
 <strong>Recursos:</strong> 🔍 Análise profunda • 🖼️ Interface gráfica • ⚙️ Modo CLI
+
 </blockquote>
 
 ---
@@ -163,7 +169,7 @@ Novas ferramentas para trabalhar com **aprendizado de máquina** e **tecnologias
 </div>
 
 <!-- Metadados do perfil -->
-<!-- 
+<!--
 Crônica criativa:
 - Projetos públicos: 16 (Laboratório Oliva, Inspector-GGUF)
 - Desenvolvimentos privados: 31
