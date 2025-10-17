@@ -99,7 +99,7 @@ In plans — new tools with emphasis on **quality user experience** and **modern
 
 <br>
 
-## 📲 Contacts -->
+## 📲 Contacts
 
 <br>
 
