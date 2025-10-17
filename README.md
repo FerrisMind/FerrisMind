@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Workshop&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Creator Avatar" />
   <img src="AIRerikh.gif" width=100% style="border-radius: 50%;" alt="Creator Avatar" /><br>
-  <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=%C2%ABIn%20Beauty%20we%20are%20united!%20Through%20Beauty%20we%20pray!%20Through%20Beauty%20we%20conquer!%C2%BB&textBg=false&desc=%E2%80%93%20Nicholas%20Konstantinovich%20Roerich&fontSize=24&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Creator Avatar" />  
+  <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=%C2%ABIn%20Beauty%20we%20are%20united!%20Through%20Beauty%20we%20pray!%20Through%20Beauty%20we%20conquer!%C2%BB&textBg=false&desc=%E2%80%93%20Nicholas%20Konstantinovich%20Roerich&fontSize=20&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Creator Avatar" />  
 </div>
 
 <br>
