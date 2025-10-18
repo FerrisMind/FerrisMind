@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=FerrisMind%20&textBg=false&desc=Oficina&fontSize=80&fontAlign=50&fontAlignY=36&animation=twinkling&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=2&descAlignY=56" width=100%;" alt="Avatar do Criador" />
   <img src="AIRerikh.gif" width=100% style="border-radius: 50%;" alt="Avatar do Criador" /><br>
-  <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=%C2%ABNa%20Beleza%20estamos%20unidos!%20Atrav%C3%A9s%20da%20Beleza%20oramos!%20Atrav%C3%A9s%20da%20Beleza%20conquistamos!%C2%BB&textBg=false&desc=%E2%80%93%20Nicolau%20Konstantinovich%20Roerich&fontSize=24&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Avatar do Criador" />  
+  <br><img src="https://capsule-render.vercel.app/api?type=rounded&height=128&color=0:2D1B36,100:1A2B5C&text=%C2%ABNa%20Beleza%20estamos%20unidos!%20Atrav%C3%A9s%20da%20Beleza%20oramos!%20Atrav%C3%A9s%20da%20Beleza%20conquistamos!%C2%BB&textBg=false&desc=%E2%80%93%20Nicolau%20Konstantinovich%20Roerich&fontSize=18&fontAlign=50&fontAlignY=38&animation=fadeIn&section=header&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1.5&descAlignY=68&rotate=0" width=100%;" alt="Avatar do Criador" />  
 </div>
 
 <br>
