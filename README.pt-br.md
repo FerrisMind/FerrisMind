@@ -108,6 +108,8 @@ Nos planos — novas ferramentas com ênfase em **experiência de usuário de qu
 [![GitHub](https://badgen.net/badge/GitHub/FerrisMind/1A2B5C?icon=https://raw.githubusercontent.com/phosphor-icons/core/main/assets/fill/github-logo-fill.svg&scale=1.6)](https://github.com/FerrisMind)
 [![GitVerse](https://badgen.net/badge/GitVerse/FerrisMind/1A2B5C?icon=https://cdn.jsdelivr.net/gh/FerrisMind/FerrisMind@main/static/gitverse.svg&scale=1.6)](https://gitverse.ru/FerrisMind)<br>
 
+Tradução by Talita Sousa Maia
+
 <br>
 
  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2D1B36,100:1A2B5C&text=~%20Tecido%20❤️‍🔥%20no%20esp%C3%ADrito%20do%20ensino-nl-%20sobre%20Beleza,%20Cultura%20e%20Cria%C3%A7%C3%A3o%20Infinita%20~&textBg=false&fontSize=28&fontAlign=50&fontAlignY=60&animation=fadeIn&section=footer&reversal=false&fontColor=C9D6E8&stroke=8A7CA8&strokeWidth=1" width=100%; alt="Avatar do Criador" />
