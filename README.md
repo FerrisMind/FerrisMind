@@ -68,6 +68,61 @@ Desktop application on **Rust + Tauri v2 + Svelte 5** for working with AI models
 
 <br>
 
+[![shadcn-rs](https://badgen.net/github/tag/FerrisMind/shadcn-rs?icon=https://github.com/FerrisMind/shadcn-rs/raw/refs/heads/master/crates/egui-shadcn/assets/icons/shadcn-egui/icon-black.svg&label=shadcn-rs&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/shadcn-rs)
+
+<br>_shadcn/ui-inspired component library for Rust GUI stacks._
+
+A Rust component library that brings shadcn/ui-style composition to native interfaces.
+
+- **🧩 Reusable primitives:** Built for composing consistent native UI building blocks.
+- **🎯 Design-system friendly:** Keeps styling predictable across Rust GUI projects.
+
+<br>
+
+[![candle-video](https://badgen.net/github/tag/FerrisMind/candle-video?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=candle-video&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/candle-video)
+
+<br>_The Rust library for video generation models based on Candle._
+
+A Rust foundation for video-generation experiments and model integration around Candle.
+
+- **🧠 Model-first focus:** Built for inference workflows rather than application scaffolding.
+- **🎬 AI video tooling:** Useful as a base for future generative video systems.
+
+<br>
+
+[![twill](https://badgen.net/badge/twill/0.3.0?icon=https://cdn.jsdelivr.net/gh/FerrisMind/twill@main/assets/icon.svg&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/twill)
+
+<br>_Idiomatic Rust styling library inspired by Tailwind for native GUI._
+
+A styling layer that brings utility-first ergonomics to Rust desktop and native apps.
+
+- **🧵 Utility-driven styling:** Helps keep component styling compact and readable.
+- **⚙️ Native GUI fit:** Aims at predictable styles across Rust interface stacks.
+
+<br>
+
+[![omnivoice-rs](https://badgen.net/badge/omnivoice-rs/0.1.0?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/omnivoice-rs)
+
+<br>_Implementation of the OmniVoice inference model from k2-fsa in Rust._
+
+Rust implementation of OmniVoice inference flows for local audio and speech work.
+
+- **🎙️ Voice-model integration:** Centers on inference logic and runtime behavior.
+- **🔊 Experimental base:** A practical starting point for voice AI tooling in Rust.
+
+<br>
+
+[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow-color.png&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
+
+<br>_Unified icon library for Rust GUI apps with embedded icon packs and a type-safe API._
+
+A type-safe icon toolkit for egui, iced, and other Rust UI stacks.
+
+- **🎨 Embedded icon packs:** Bundles several popular sets for native apps.
+- **🧱 Type-safe API:** Keeps icon usage predictable across GUI components.
+
+<br>
+
 [![Inspector%20GGUF](https://badgen.net/crates/v/inspector-gguf?icon=https://cdn.jsdelivr.net/gh/FerrisMind/inspector-gguf@main/assets/icons/icon.svg&label=Inspector%20GGUF&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/inspector-gguf)
 
 <br>_Tool for exploring the internal structure of AI models with intuitive graphical interface._
@@ -79,7 +134,7 @@ Metadata analyzer based on **Candle** library with graphical and console interfa
 
 ### 🌐 Other Directions
 
-In plans — new tools with emphasis on **quality user experience** and **modern design**. Each project is an opportunity to show that complex technologies can be accessible and pleasant to use.
+More Rust GUI and AI tools are on the roadmap, still guided by the same bar for quality user experience and modern design.
 
 <br>
 

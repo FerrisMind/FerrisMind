@@ -68,6 +68,61 @@ impl Дизайнер for FerrisMind {
 
 <br>
 
+[![shadcn-rs](https://badgen.net/github/tag/FerrisMind/shadcn-rs?icon=https://github.com/FerrisMind/shadcn-rs/raw/refs/heads/master/crates/egui-shadcn/assets/icons/shadcn-egui/icon-black.svg&label=shadcn-rs&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/shadcn-rs)
+
+<br>_Компонентная библиотека, вдохновленная shadcn/ui, для Rust GUI-стеков._
+
+Библиотека компонентов на Rust, которая приносит композицию в стиле shadcn/ui в нативные интерфейсы.
+
+- **🧩 Переиспользуемые примитивы:** Основа для сборки единых блоков интерфейса.
+- **🎯 Дружелюбно к дизайн-системе:** Сохраняет предсказуемый стиль в Rust GUI-проектах.
+
+<br>
+
+[![candle-video](https://badgen.net/github/tag/FerrisMind/candle-video?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&label=candle-video&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/candle-video)
+
+<br>_Библиотека Rust для моделей генерации видео на базе Candle._
+
+Основа на Rust для экспериментов с генерацией видео и интеграции моделей вокруг Candle.
+
+- **🧠 Фокус на инференсе:** Библиотека ориентирована на вычислительные сценарии, а не на каркас приложения.
+- **🎬 Инструмент для AI-видео:** Подходит как база для будущих генеративных видеосистем.
+
+<br>
+
+[![twill](https://badgen.net/badge/twill/0.3.0?icon=https://cdn.jsdelivr.net/gh/FerrisMind/twill@main/assets/icon.svg&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/twill)
+
+<br>_Идиоматичная библиотека стилей на Rust, вдохновленная Tailwind для нативного GUI._
+
+Слой стилей, который приносит эргономику utility-first в десктопные и нативные приложения Rust.
+
+- **🧵 Utility-first стилизация:** Помогает держать стили компонентов компактными и читаемыми.
+- **⚙️ Подходит для нативного GUI:** Ориентирован на предсказуемые стили в Rust-интерфейсах.
+
+<br>
+
+[![omnivoice-rs](https://badgen.net/badge/omnivoice-rs/0.1.0?icon=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/omnivoice-rs)
+
+<br>_Реализация модели инференса OmniVoice из k2-fsa на Rust._
+
+Реализация на Rust для локальных аудио- и речевых сценариев на базе OmniVoice.
+
+- **🎙️ Интеграция голосовой модели:** Акцент на логике инференса и поведении рантайма.
+- **🔊 Экспериментальная основа:** Практичная точка старта для voice AI-инструментов на Rust.
+
+<br>
+
+[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow-color.png&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
+
+<br>_Единая библиотека иконок для Rust GUI-приложений со встроенными наборами и типобезопасным API._
+
+Типобезопасный набор иконок для egui, iced и других Rust UI-стеков.
+
+- **🎨 Встроенные наборы иконок:** Собраны несколько популярных наборов для нативных приложений.
+- **🧱 Типобезопасный API:** Делает использование иконок предсказуемым в GUI-компонентах.
+
+<br>
+
 [![Inspector%20GGUF](https://badgen.net/crates/v/inspector-gguf?icon=https://cdn.jsdelivr.net/gh/FerrisMind/inspector-gguf@main/assets/icons/icon.svg&label=Inspector%20GGUF&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/inspector-gguf)
 
 <br>_Инструмент для исследования внутренней структуры AI-моделей с интуитивным графическим интерфейсом._
@@ -79,7 +134,7 @@ impl Дизайнер for FerrisMind {
 
 ### 🌐 Другие направления
 
-В планах — новые инструменты с акцентом на **качественный пользовательский опыт** и **современный дизайн**. Каждый проект — это возможность показать, что сложные технологии могут быть доступными и приятными в использовании.
+В планах — больше Rust GUI- и AI-инструментов, по-прежнему с тем же уровнем требований к качеству UX и современному дизайну.
 
 <br>
 
