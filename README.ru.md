@@ -112,7 +112,7 @@ impl Дизайнер for FerrisMind {
 
 <br>
 
-[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow-color.png&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
+[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow.svg&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
 
 <br>_Единая библиотека иконок для Rust GUI-приложений со встроенными наборами и типобезопасным API._
 

@@ -112,7 +112,7 @@ Rust implementation of OmniVoice inference flows for local audio and speech work
 
 <br>
 
-[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow-color.png&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
+[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow.svg&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
 
 <br>_Unified icon library for Rust GUI apps with embedded icon packs and a type-safe API._
 

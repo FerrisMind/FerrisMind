@@ -112,7 +112,7 @@ Implementação em Rust dos fluxos de inferência do OmniVoice para áudio e fal
 
 <br>
 
-[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow-color.png&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
+[![iconflow](https://badgen.net/crates/v/iconflow?icon=https://raw.githubusercontent.com/FerrisMind/iconflow/main/assets/icons/iconflow.svg&label=iconflow&color=2D1B36&scale=2.5)](https://github.com/FerrisMind/iconflow)
 
 <br>_Biblioteca unificada de ícones para apps GUI em Rust com pacotes embutidos e API type-safe._
 
