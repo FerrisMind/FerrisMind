@@ -32,7 +32,7 @@
 
 ## Stack
 
-Rust &nbsp;·&nbsp; Tauri &nbsp;·&nbsp; Svelte &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Candle
+Rust &nbsp;·&nbsp; Tauri &nbsp;·&nbsp; Svelte &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Candle &nbsp;·&nbsp; AI
 
 Currently building more Rust GUI and local-AI tooling.
 
