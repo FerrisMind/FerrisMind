@@ -35,3 +35,7 @@
 Rust &nbsp;·&nbsp; Tauri &nbsp;·&nbsp; Svelte &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Candle
 
 Currently building more Rust GUI and local-AI tooling.
+
+## Support
+
+If these tools are useful to you, you can back the work on [Boosty](https://boosty.to/ferrismind).
