@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Layered mountain ridges at dusk">
+  <defs>
+    <linearGradient id="fm-sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2D1B36"/>
+      <stop offset="0.55" stop-color="#232148"/>
+      <stop offset="1" stop-color="#1A2B5C"/>
+    </linearGradient>
+    <radialGradient id="fm-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#C9D6E8" stop-opacity="0.28"/>
+      <stop offset="0.5" stop-color="#8A7CA8" stop-opacity="0.11"/>
+      <stop offset="1" stop-color="#8A7CA8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="fm-far" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4C3B66"/>
+      <stop offset="1" stop-color="#3A2B52"/>
+    </linearGradient>
+    <linearGradient id="fm-mid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#302549"/>
+      <stop offset="1" stop-color="#241C3A"/>
+    </linearGradient>
+    <linearGradient id="fm-near" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E1832"/>
+      <stop offset="1" stop-color="#131020"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#fm-sky)"/>
+  <circle cx="862" cy="74" r="250" fill="url(#fm-glow)"/>
+
+  <g fill="#C9D6E8">
+    <circle cx="96" cy="44" r="1.5" opacity=".50"/>
+    <circle cx="168" cy="88" r="1.1" opacity=".38"/>
+    <circle cx="248" cy="38" r="1.7" opacity=".55"/>
+    <circle cx="330" cy="76" r="1.0" opacity=".32"/>
+    <circle cx="416" cy="46" r="1.3" opacity=".44"/>
+    <circle cx="524" cy="30" r="1.1" opacity=".36"/>
+    <circle cx="612" cy="72" r="1.5" opacity=".48"/>
+    <circle cx="700" cy="40" r="1.0" opacity=".30"/>
+    <circle cx="1042" cy="52" r="1.4" opacity=".46"/>
+    <circle cx="1108" cy="96" r="1.1" opacity=".34"/>
+    <circle cx="1166" cy="42" r="1.6" opacity=".50"/>
+    <circle cx="466" cy="102" r="1.0" opacity=".28"/>
+    <circle cx="956" cy="118" r="1.0" opacity=".28"/>
+  </g>
+
+  <path d="M0 200 L72 168 L134 186 L202 142 L270 172 L342 124 L412 164 L472 146 L560 180 L642 138 L722 174 L802 150 L882 182 L962 144 L1042 178 L1112 152 L1200 180 L1200 300 L0 300 Z" fill="url(#fm-far)" opacity="0.88"/>
+  <path d="M0 232 L92 200 L162 220 L242 186 L322 214 L402 180 L482 212 L572 190 L662 218 L742 196 L822 222 L912 192 L1002 218 L1092 198 L1200 224 L1200 300 L0 300 Z" fill="url(#fm-mid)" opacity="0.92"/>
+  <path d="M0 266 L112 240 L202 258 L302 232 L402 256 L502 236 L612 260 L722 238 L832 262 L942 240 L1052 260 L1152 244 L1200 254 L1200 300 L0 300 Z" fill="url(#fm-near)"/>
+</svg>
