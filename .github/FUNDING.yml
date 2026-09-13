@@ -1,3 +1,3 @@
 # Backs the Sponsor button on repositories in this account.
-# Neither platform is built into GitHub, so both go under `custom`.
-custom: ["https://boosty.to/ferrismind", "https://yoomoney.ru/to/4100118833895985?lang=en"]
+# None of these platforms is built into GitHub, so all go under `custom` (max 4 URLs).
+custom: ["https://boosty.to/ferrismind", "https://yoomoney.ru/to/4100118833895985?lang=en", "https://www.donationalerts.com/r/ferrismind"]
