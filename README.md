@@ -40,4 +40,4 @@ Currently building more Rust GUI and local-AI tooling.
 
 If these tools are useful to you, you can back the work here:
 
-[![Boosty](https://img.shields.io/badge/Boosty-support-F15F5A?style=flat&logo=boosty&logoColor=white)](https://boosty.to/ferrismind) [![YooMoney](https://img.shields.io/badge/YooMoney-donate-8B3FFD?style=flat)](https://yoomoney.ru/to/4100118833895985)
+[![Boosty](https://img.shields.io/badge/Boosty-support-F15F5A?style=flat&logo=boosty&logoColor=white)](https://boosty.to/ferrismind) [![YooMoney](https://img.shields.io/badge/YooMoney-donate-8B3FFD?style=flat)](https://yoomoney.ru/to/4100118833895985?lang=en)
